@@ -1,28 +1,32 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HeaderComponent />
+    <StatsDashboard />
+    <TransactionList />
+    <TransactionList />
+    <AddTransactionComponent />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
-
+import Header from "./components/Header";
+import StatsDashboard from "./components/StatsDashboard";
+import TransactionList from "./components/TransactionList";
+import AddTransactionComponent from "./components/AddTransactionComponent";
 export default {
   name: "App",
   components: {
-    HelloWorld
+    HeaderComponent: Header,
+    StatsDashboard: StatsDashboard,
+    TransactionList: TransactionList,
+    AddTransactionComponent: AddTransactionComponent
   }
 };
 </script>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  width: 100vw;
+  height: 100vh;
 }
 </style>
