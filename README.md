@@ -32,14 +32,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - Stylize the app
 - Remove Placeholders
-  - Create Reusable Input Components
+  - Create Reusable Input Components (done)
   - Add progress bar
-  - Add DateTime Component
-- Add transaction funcionality
-- Delete transaction functionality
+  - Add DateTime Component (done)
+- Add transaction funcionality (done)
+- Delete transaction functionality (done)
 - Edit transaction functionality
   - Add modal for transaction edit functionality
-- Sort Transactions
-  - Sort by Date
-  - Sort by Sum
-  - Sort by Name
+- Sort Transactions (done)
+  - Sort by Date (done)
+  - Sort by Sum (done)
+  - Sort by Name (done)

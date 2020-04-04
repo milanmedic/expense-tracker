@@ -8,9 +8,23 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 #app-header {
-  background-color: chartreuse;
-  padding: 10px;
+  color: #f5f5f5;
+  padding: 2.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #f5f5f5;
+  width: 60vw;
+  text-align: center;
 }
 </style>
