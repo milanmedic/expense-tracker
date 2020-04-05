@@ -44,6 +44,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Edit transaction functionality
   - Add modal for transaction edit functionality
   - Add it as a dynamic webpack dependency
+  - Use prefetching to eliminate slow download times
 - ~Sort Transactions (done)~
   - ~Sort by Date (done)~
   - ~Sort by Sum (done)~
