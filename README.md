@@ -43,6 +43,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - ~Delete transaction functionality (done)~
 - Edit transaction functionality
   - Add modal for transaction edit functionality
+  - Add it as a dynamic webpack dependency
 - ~Sort Transactions (done)~
   - ~Sort by Date (done)~
   - ~Sort by Sum (done)~
