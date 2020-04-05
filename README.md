@@ -36,6 +36,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     - Send a custom eventHandler function throught props to make the form more reusable.
   - Create a different kind of Category Selection Input
   - ~Create Reusable Input Components (done)~
+    - Use slots to pass in component descriptions
   - Add progress bar
   - ~Add DateTime Component (done)~
 - ~Add transaction funcionality (done)~
