@@ -32,6 +32,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - Stylize the app
 - Remove Placeholders
+  - Create a Reusable Forms Component
+    - Send a custom eventHandler function throught props to make the form more reusable.
+  - Create a different kind of Category Selection Input
   - Create Reusable Input Components (done)
   - Add progress bar
   - Add DateTime Component (done)
