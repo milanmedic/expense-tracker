@@ -35,14 +35,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   - Create a Reusable Forms Component
     - Send a custom eventHandler function throught props to make the form more reusable.
   - Create a different kind of Category Selection Input
-  - Create Reusable Input Components (done)
+  - ~Create Reusable Input Components (done)~
   - Add progress bar
-  - Add DateTime Component (done)
-- Add transaction funcionality (done)
-- Delete transaction functionality (done)
+  - ~Add DateTime Component (done)~
+- ~Add transaction funcionality (done)~
+- ~Delete transaction functionality (done)~
 - Edit transaction functionality
   - Add modal for transaction edit functionality
-- Sort Transactions (done)
-  - Sort by Date (done)
-  - Sort by Sum (done)
-  - Sort by Name (done)
+- ~Sort Transactions (done)~
+  - ~Sort by Date (done)~
+  - ~Sort by Sum (done)~
+  - ~Sort by Name (done)~
