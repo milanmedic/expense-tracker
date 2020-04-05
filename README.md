@@ -44,8 +44,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Edit transaction functionality
   - Add modal for transaction edit functionality
   - [Add it as a dynamic component](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
-  _ [Use prefetching or async components to eliminate slow download times](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/)
-  - Use prefetching to eliminate slow download times
+  - [Use prefetching or async components to eliminate slow download times](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/)
 - ~Sort Transactions (done)~
   - ~Sort by Date (done)~
   - ~Sort by Sum (done)~
