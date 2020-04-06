@@ -30,6 +30,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### TODO
 
+#### For V2
+- Form has to utilise slots for passing optional fields, buttons, etc... and easier v-model abstraction from grandparent component to grandchild component without using event bus. Or just use event bus, idk.
+
 - Stylize the app
 - Remove Placeholders
   - Create a Reusable Forms Component
